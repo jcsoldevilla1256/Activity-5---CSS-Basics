@@ -1,0 +1,22 @@
+img {
+    width: 100%;
+    height: auto;
+  }
+
+  #logo {
+    width: 30%;
+    height: auto;
+  }
+
+  a {
+    text-decoration: none;
+    color: white;
+  }
+
+  a:hover {
+    color: rgba(204, 204, 30, 0.987);
+  }
+
+  a:visited {
+    color: white;
+  }
